@@ -1,8 +1,14 @@
-# Valentine Wish 💝
+# Valentine Wish
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white)
+![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 
 An animated, customizable Valentine's Day greeting webpage to send special wishes to your loved ones! This project features smooth animations, beautiful visuals, and is fully customizable to make your Valentine's Day message unique and memorable.
 
-## 🌟 Features
+## Features
 
 - **Beautiful Animations**: Smooth GSAP-powered animations that create a delightful user experience
 - **Fully Customizable**: Easy customization through a simple JSON configuration file
@@ -11,7 +17,7 @@ An animated, customizable Valentine's Day greeting webpage to send special wishe
 - **Personal Touch**: Add custom names, messages, and images
 - **Replay Option**: Allow recipients to watch the animation again
 
-## 🎨 Preview
+## Preview
 
 The animation sequence includes:
 1. Personalized greeting with the recipient's name
@@ -21,7 +27,7 @@ The animation sequence includes:
 5. Floating balloons and hearts
 6. Interactive replay option
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -53,7 +59,7 @@ http-server
 
 4. Visit `http://localhost:8000` in your browser
 
-## ⚙️ Customization
+## Customization
 
 Customize the Valentine's wish by editing the `customize.json` file:
 
@@ -79,7 +85,7 @@ Customize the Valentine's wish by editing the `customize.json` file:
 2. Update the `imagePath` in `customize.json` to point to your image
 3. Supported formats: JPG, PNG, SVG
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ValentineWish/
@@ -100,7 +106,7 @@ ValentineWish/
 └── README.md          # This file
 ```
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **HTML5**: Structure and content
 - **CSS3**: Styling and responsive design
@@ -108,14 +114,14 @@ ValentineWish/
 - **GSAP (GreenSock Animation Platform)**: Professional-grade animations
 - **Babel Standalone**: ES6+ JavaScript support
 
-## 💡 Usage Tips
+## Usage Tips
 
 1. **Personalize it**: Make sure to update all fields in `customize.json` for a truly personal touch
 2. **Test locally**: Preview the animation before sharing to ensure everything looks perfect
 3. **Share the link**: Host it on GitHub Pages, Netlify, or Vercel for easy sharing
 4. **Mobile-friendly**: The animation works great on mobile devices too!
 
-## 🌐 Deployment
+## Deployment
 
 ### GitHub Pages
 
@@ -129,24 +135,24 @@ ValentineWish/
 
 Simply drag and drop the project folder to [Netlify](https://www.netlify.com/) or [Vercel](https://vercel.com/) for instant deployment.
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page if you want to contribute.
 
-## 📝 License
+## License
 
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 
-## 💖 Acknowledgments
+## Acknowledgments
 
 - GSAP for the amazing animation library
 - All the open-source contributors who make projects like this possible
 - Special thanks to everyone celebrating love on Valentine's Day!
 
-## ⭐ Show Your Support
+## Show Your Support
 
-If you found this project helpful or used it to make someone's Valentine's Day special, please give it a ⭐️!
+If you found this project helpful or used it to make someone's Valentine's Day special, please give it a star!
 
 ---
 
-Made with ❤️ for Valentine's Day
+Made with love for Valentine's Day
